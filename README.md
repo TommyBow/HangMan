@@ -36,7 +36,7 @@ This will start the development server and open the app in your default browser.
 ## Gameplay Instructions
 
 1. The game will display a series of underscores representing the hidden word. Each underscore represents a letter in the word.
-2. Click on a letter on the virtual keyboard to guess that letter.
+2. Click a letter on your keyboard to guess that letter.
 3. If the letter is in the word, it will be revealed in the corresponding underscore(s).
 4. If the letter is not in the word, you will lose one attempt.
 5. Keep guessing letters until you either guess the word correctly or run out of attempts.
